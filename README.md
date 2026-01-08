@@ -26,7 +26,7 @@ A modern, responsive **product landing page** built using **HTML & CSS**, showca
 - **Remix Icon CDN**
 
 ## 📁 Project Structure
-
+```
 Recycled-Jacket-Landing/
 ├── index.html
 ├── style.css
